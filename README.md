@@ -4,4 +4,4 @@ Hello! My name is Katherine.
 
 I am learning GitHub for the first time.
 
-This is my first project
+This is my first GitHub project!
